@@ -1,0 +1,12 @@
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.dll
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\refint\CalculadoraIMC.dll
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\CalculadoraIMC.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0\ref\CalculadoraIMC.dll
